@@ -1,0 +1,8 @@
+#!/usr/bin/python3
+
+try:
+    import personal
+except:
+    print("user 64bit fon")
+
+
